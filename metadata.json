@@ -1,0 +1,5 @@
+{
+  "name": "AI CV Builder",
+  "description": "An intelligent CV builder that helps you craft the perfect resume with the power of Gemini AI. Input your details, get AI-powered suggestions for summaries and descriptions, and export your professional CV as a PDF.",
+  "requestFramePermissions": []
+}
